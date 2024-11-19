@@ -1,2 +1,3 @@
-# gym_equipment_chatbot
-헬스 기구 챗봇
+# Machine Learning 02
+## Team 03 변하영, 도연수, 이슬
+
