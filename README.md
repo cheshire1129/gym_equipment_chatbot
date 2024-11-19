@@ -1,3 +1,3 @@
-# Machine Learning 02
+# 2024-2 Machine Learning 02
 ## Team 03 변하영, 도연수, 이슬
 
